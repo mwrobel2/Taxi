@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415792003562",
+    "firebase_url": "https://taxiapp-ff66c.firebaseio.com",
+    "project_id": "taxiapp-ff66c",
+    "storage_bucket": "taxiapp-ff66c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415792003562:android:a4c044451c524e7ce5da93",
+        "android_client_info": {
+          "package_name": "ug.edu.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415792003562-vdcluvo4keonr75een51ml1o2vel1osq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GNqLWUf9iLl0qyOLMAUhslMUxeCvjWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415792003562-vdcluvo4keonr75een51ml1o2vel1osq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="logout">logout</string>
+    <string name="update">Update</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="password">password</string>
+</resources>

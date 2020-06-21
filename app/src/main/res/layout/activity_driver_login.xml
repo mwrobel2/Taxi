@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ug.edu.taxi.DriverLoginActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:backgroundTint="#40C4FF"
+        android:hint="email"
+        android:textColor="#FF6E40" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+
+        android:backgroundTint="#40C4FF"
+        android:hint="password"
+        android:textColor="#FF6E40" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:textColor="#FFEA00"
+        android:text="login"
+        android:id="@+id/login"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:textColor="#FFEA00"
+        android:text="registration"
+        android:id="@+id/registration"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/taxi" />
+
+</LinearLayout>
