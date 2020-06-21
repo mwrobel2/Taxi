@@ -1,4 +1,4 @@
-# Taxi- an application that allows you to call the Taxi
+# Taxi- an application that allows you to contact your driver without revealing your phone number by placing a free call directly within the Taxi app
 
 ## Technologies
 Project is created with:
